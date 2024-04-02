@@ -1,0 +1,251 @@
+﻿@using Models.Entities;
+@{
+    ViewData["Title"] = "Danh mục sản phẩm";
+    var perpageShow = new List<int>()
+    {
+        10, 20, 30, 50, 100, 200
+    };
+    long total = 0;
+    long totalPage = 1;
+    var currentPage = 1;
+    var limit = 1;
+    var manufactures = new List<Manufacture>();
+
+    if (ViewBag.Manufactures != null)
+    {
+        manufactures = ViewBag.Manufactures;
+    }
+}
+
+<div class="row page-titles">
+    <div class="col-md-5 align-self-center">
+        <h3 class="text-themecolor">Dashboard</h3>
+    </div>
+    <div class="col-md-7 align-self-center">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="javascript:void(0)">Home</a>
+            </li>
+            <li class="breadcrumb-item active">Dashboard</li>
+        </ol>
+    </div>
+    <div>
+        <button class="right-side-toggle waves-effect waves-light btn-inverse btn btn-circle btn-sm pull-right m-l-10">
+            <i class="ti-settings text-white"></i>
+        </button>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-12">
+                        <button onclick="ClearModal()" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#informationModal">
+                            Create
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-group">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-6" style="display: flex;">
+                                <span>Hiển thị </span>
+                                <select id="perpage" name="perpage" style="margin: 0 10px; height: 38px;" title="per-page">
+                                    @if (perpageShow != null && perpageShow.Any())
+                                    {
+                                        foreach (var item in perpageShow)
+                                        {
+                                            if (item == limit)
+                                            {
+                                                <option value="@item" selected>@item</option>
+                                            }
+                                            else
+                                            {
+                                                <option value="@item">@item</option>
+                                            }
+                                        }
+                                    }
+                                </select>
+                                <span> / @total</span>
+                            </div>
+                            <div class="col-6">
+                                <nav aria-label="Page navigation example" class="pull-right">
+                                    <ul class="pagination">
+                                        @if (currentPage == 1)
+                                        {
+                                            <li class="page-item disabled">
+                                                <a class="page-link" aria-disabled="true">
+                                                    <span aria-hidden="true">&laquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="page-item">
+                                                <a class="page-link" data-page="@(currentPage - 1)" aria-label="Previous">
+                                                    <span aria-hidden="true">&laquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        @for (int i = 0; i < totalPage; i++)
+                                        {
+                                            if (i + 1 == currentPage)
+                                            {
+                                                <li class="page-item active" aria-current="page"><a class="page-link">@(i + 1)</a></li>
+                                            }
+                                            else
+                                            {
+                                                <li class="page-item"><a class="page-link" data-page="@(i + 1)">@(i + 1)</a></li>
+                                            }
+                                        }
+                                        @if (currentPage == totalPage)
+                                        {
+                                            <li class="page-item disabled">
+                                                <a class="page-link" aria-disabled="true">
+                                                    <span aria-hidden="true">&raquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="page-item">
+                                                <a class="page-link" data-page="@(currentPage + 1)" aria-label="Next">
+                                                    <span aria-hidden="true">&raquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="clearfix"><br /></div>
+                    </div>
+                    <div class="col-12">
+                        <table class="table table-bordered table-condensed table-striped" id="manufacture-table" style="width: 100% !important; font-size: 12px">
+                            <thead>
+                                <tr>
+                                    <td>Name</td>
+                                    <td>Slug</td>
+                                    <td>Image</td>
+                                    <td>Website</td>
+                                    <td>Status</td>
+                                    <td>Action</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (manufactures != null && manufactures.Any())
+                                {
+                                    foreach (var manufacture in manufactures)
+                                    {
+                                        <tr>
+                                            <td>@manufacture.Name</td>
+                                            <td>@manufacture.Slug</td>
+                                            <td>
+                                                <img class="img-fluid" style="width: 200px;" src="@manufacture.Image" alt="@manufacture.Name" />
+                                            </td>
+                                            <td>
+                                                <a href="@manufacture.Website" target="_blank">Link website @manufacture.Name</a>
+                                            </td>
+                                            <td>
+                                                @if (manufacture.IsActived)
+                                                {
+                                                    <span class="badge badge-primary">Actived</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge badge-danger">In Actived</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                <button type="button" onclick="Edit('@manufacture.Id')" class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#informationModal">
+                                                    Edit
+                                                </button>
+                                                @if (manufacture.IsActived)
+                                                {
+                                                    <button class="btn btn-sm btn-danger" onclick="Active('@manufacture.Id', false)">Disable</button>
+                                                }
+                                                else
+                                                {
+                                                    <button class="btn btn-sm btn-info" onclick="Active('@manufacture.Id', true)">Enable</button>
+                                                }
+                                                <button class="btn btn-sm btn-danger" onclick="Delete('@manufacture.Id')">Delete</button>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="6">
+                                            <div>There is no data</div>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="informationModal" tabindex="-1" aria-labelledby="informationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="informationModalLabel">Select image</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form role="form" action="">
+                    <div class="form-group">
+                        <label for="Name">Manufacture Name</label>
+                        <input class="form-control" type="text" id="Name" name="Name" onkeyup="GenerateSlug()" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Slug">Manufacture Slug</label>
+                        <input class="form-control" readonly type="text" id="Slug" name="Slug" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Website">Manufacture Website</label>
+                        <input class="form-control" type="text" id="Website" name="Website" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Image">Manufacture Image</label>
+                        <input class="form-control" type="text" id="Image" name="Image" onkeyup="ShowImage()" />
+                        <img class="img-fluid" id="ImageShow" style="width: 200px;" src="" alt="" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="IsActived">Is Actived</label>
+                        <select class="form-control" id="IsActived" name="IsActived">
+                            <option value="true">Enable</option>
+                            <option value="false">Disable</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" onclick="CreateOrUpdate()" class="btn btn-success">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/pages/manufacture/manufacture.js"></script>
+}

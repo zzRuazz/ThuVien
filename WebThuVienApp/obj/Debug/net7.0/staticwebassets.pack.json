@@ -1,0 +1,2985 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebThuVienApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebThuVienApp.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\1icons02270526122018.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1icons02270526122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\1logoes02265726122018.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1logoes02265726122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\UserAvatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\UserAvatar.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner08.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner09.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner10.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner12.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner13.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner14.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\banner15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner15.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\female.png",
+      "PackagePath": "staticwebassets\\assets\\img\\female.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\index.html",
+      "PackagePath": "staticwebassets\\assets\\img\\index.html"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\logo-classic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-classic.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\main-product01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-product01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\main-product02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-product02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\main-product03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-product03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\main-product04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-product04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\male.png",
+      "PackagePath": "staticwebassets\\assets\\img\\male.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\product08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product08.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tag.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tag.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tb1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tb2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tb2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tb3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tb3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tb4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tb4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\tb5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tb5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\thumb-product01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\thumb-product01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\thumb-product02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\thumb-product02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\thumb-product03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\thumb-product03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\img\\thumb-product04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\thumb-product04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\lory.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lory.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\modernizr.custom.46884.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.custom.46884.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\bundles\\asset.min.js",
+      "PackagePath": "staticwebassets\\bundles\\asset.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\bundles\\asset.min.js.map",
+      "PackagePath": "staticwebassets\\bundles\\asset.min.js.map"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\bundles\\providers.min.js",
+      "PackagePath": "staticwebassets\\bundles\\providers.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\bundles\\theme.min.css",
+      "PackagePath": "staticwebassets\\bundles\\theme.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\ajax.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\ajax.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\common.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\common.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\datatable.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\datatable.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\datetime.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\datetime.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\form.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\form.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\message.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\message.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\number.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\number.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\page.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\page.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\providers\\select2.js",
+      "PackagePath": "staticwebassets\\plugins\\providers\\select2.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\1.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\1.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\1024x300-banner-purple-flower.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\1024x300-banner-purple-flower.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\1adminavatar23295223122018.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\1adminavatar23295223122018.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\1icons02270526122018.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\1icons02270526122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\1logoes02265726122018.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\1logoes02265726122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\2.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\2.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\20-sept-banner-1024x300.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\20-sept-banner-1024x300.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\3.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\3.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\4.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\4.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\48426160_369955007105044_8956461886950342656_n.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\48426160_369955007105044_8956461886950342656_n.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\5.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\5.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Banner\\Banner_001.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Banner\\Banner_001.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Banner\\Banner_002.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Banner\\Banner_002.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Banner\\Banner_003.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Banner\\Banner_003.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\1280px-Samsung_Logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\1280px-Samsung_Logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\28531d98145cc709431bdcf4103fb547.jpeg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\28531d98145cc709431bdcf4103fb547.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\31_wdlogo.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\31_wdlogo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\5901e28b93587572b4b21ce9.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\5901e28b93587572b4b21ce9.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\Microsoft-logo_rgb_wht.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\Microsoft-logo_rgb_wht.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\NZXT Logo-white bkg-d64e6c7ce69211ac7f591cde8bc6fb0ea16a37a01df357eb35e72c94a611afda.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\NZXT Logo-white bkg-d64e6c7ce69211ac7f591cde8bc6fb0ea16a37a01df357eb35e72c94a611afda.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\SONY-LOGO-1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\SONY-LOGO-1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\SennheiserLogo-e1495637258494.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\SennheiserLogo-e1495637258494.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\acer.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\acer.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\asus-logo-hd-photo-15.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\asus-logo-hd-photo-15.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\blog_Introducing-The-New-Sails-Logo-Content-1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\blog_Introducing-The-New-Sails-Logo-Content-1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\gigabyte-logo-805x352.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\gigabyte-logo-805x352.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\logo.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\logo.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\logodell.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\logodell.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\msi-logo.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\msi-logo.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\razer-logo.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\razer-logo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\thermaltake_logo_en.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\thermaltake_logo_en.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Brand-Logo\\xigmatek-logo.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Brand-Logo\\xigmatek-logo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\Capture.JPG",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\Capture.JPG"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\H2cb-84q_400x400.jpeg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\H2cb-84q_400x400.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\11060881_888443704534720_2036613721015644854_n.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\11060881_888443704534720_2036613721015644854_n.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\1555233631-615-09_ho_ngoc_ha_3-1555233599-width613height912.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\1555233631-615-09_ho_ngoc_ha_3-1555233599-width613height912.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\1803_45719_11.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\1803_45719_11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\3010_45062831_2812350678835708_2901796745467920384_o.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\3010_45062831_2812350678835708_2901796745467920384_o.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\SKT.jpeg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\SKT.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh10.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh10.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh11.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh12.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh12.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh15(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh15(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh3(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh3(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh6.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh6.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh7.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh8.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh8.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\hinh9.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\hinh9.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\khuyenmai.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\khuyenmai.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\lapdell.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\lapdell.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\News\\macbook.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\News\\macbook.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\AMD\\1280px-AMD_Logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\AMD\\1280px-AMD_Logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA05.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA06.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA07.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA08.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT05.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT06.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT07.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT08.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT_c.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT_c.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01(1).png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01(1).png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX05.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX06.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX07.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX08.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88501.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88501.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88502.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88502.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88503.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88503.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88504.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Acer\\XC-885\\XC-88504.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\4-14-932x690.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\4-14-932x690.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua00-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua00-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua0005.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua0005.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\gearvn_asus_rogdelta.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\gearvn_asus_rogdelta.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\vn_15ba30fc0b8aa08919cf2132t08df36b0.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogDelta\\vn_15ba30fc0b8aa08919cf2132t08df36b0.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-05.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-07.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-05.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-07.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-08.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0001_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0001_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0003_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0003_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0004_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0004_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 05.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X6.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\570X\\570X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X6.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X7.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Case\\680X7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_6.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_7.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_8.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_8.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_9.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_9.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_0.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_0.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_7.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_8.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_9.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_9.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\1_de7f0e2e774148f2be8b629cc37bdd4b.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\1_de7f0e2e774148f2be8b629cc37bdd4b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\2_dffb3f45cd1f4b4db690a0e6a2f5ba10.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\2_dffb3f45cd1f4b4db690a0e6a2f5ba10.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\3_fde0665bec2d419daacb6826e10acedd.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\3_fde0665bec2d419daacb6826e10acedd.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\4_1bf9fe794c184f5a8384129dac0e8c8b.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\4_1bf9fe794c184f5a8384129dac0e8c8b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\5_243da30d1bb44a2d96bbc2fccdebbb05.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\5_243da30d1bb44a2d96bbc2fccdebbb05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\gearvn_k95_gunmetal1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\Keyboard\\k95\\gearvn_k95_gunmetal1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X6.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X7.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d6.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d7.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair8GbDDR42666\\ddr4_veng_lpx_blk_02_gearvn_1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Corsair\\RAM\\Corsair8GbDDR42666\\ddr4_veng_lpx_blk_02_gearvn_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_1.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\DXRacer\\RZ74\\RZ74_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\5481 70175946\\70170107_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\70170107\\70170107_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A03.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A04.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\N5680A\\N5680A_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36301.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36301.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36302.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36302.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36303.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T3630\\T36303.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T5820\\T5820.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Dell\\T5820\\T5820.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\GIGABYTE B360M AORUS PRO LGA1151v2\\b360m_aorus_pro_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\GIGABYTE B360M AORUS PRO LGA1151v2\\b360m_aorus_pro_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\34127_2018100409530133_big.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\34127_2018100409530133_big.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\B360M-AORUS-PRO_3_compressed.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\B360M-AORUS-PRO_3_compressed.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\b360m_aorus_pro_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\b360m_aorus_pro_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\GIGABYTE B360M AORUS PRO LGA1151v2\\b360m_aorus_pro_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\Mainboard\\GIGABYTE B360M AORUS PRO LGA1151v2\\b360m_aorus_pro_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g2.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g5.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\1024px-Intel-logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\1024px-Intel-logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\CPU\\i5 8400\\untitled-1_6e92f263a5c1446f98f837bf820cdb12.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\CPU\\i5 8400\\untitled-1_6e92f263a5c1446f98f837bf820cdb12.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\CPU\\i7 8700\\intel_core_i7_8700.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\CPU\\i7 8700\\intel_core_i7_8700.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn00.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn00.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi01.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi02.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi03.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi04.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi05.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn-xboxone-s-001.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn-xboxone-s-001.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_b.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_c.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_c.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_d.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_d.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_e.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_e.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No11.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No12.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No12.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No13.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No13.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No14.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\No1\\No14.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P121.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P121.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P122.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P122.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P123.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P123.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P124.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\QTC\\P12\\P124.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_6.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_6.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_7.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_8.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_a.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_a.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_0.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_0.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_3.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\a.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\a.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\b.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\b.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\c_3f3520cc5d8c45c48af3e482ed004499.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\c_3f3520cc5d8c45c48af3e482ed004499.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\d.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\d.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\e_ea09c5efde7646268121dfcec46ea851.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\DAElite\\e_ea09c5efde7646268121dfcec46ea851.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\5g_tournament_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\5g_tournament_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-02-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-02-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-08-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-08-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery01-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery01-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery06-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery06-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\c27f391_gearvn_de39a9d92bb6489bbe666f693a04c00d.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\c27f391_gearvn_de39a9d92bb6489bbe666f693a04c00d.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_2_8f66da83a71b41b08eeb274efdca1f72.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_2_8f66da83a71b41b08eeb274efdca1f72.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_3_f984ac0b7453402cb00e4dedb5e21e4d.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_3_f984ac0b7453402cb00e4dedb5e21e4d.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_4_532516b69eab43d38dc421d4dcae8e83.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_4_532516b69eab43d38dc421d4dcae8e83.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_5_ba63c834bc15436cb01a9204cc3c54a8.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_5_ba63c834bc15436cb01a9204cc3c54a8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_92975c45e8384c15b07b9e3a6650a313.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_92975c45e8384c15b07b9e3a6650a313.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\11_0cf5962ed6a54aa59a3389ee4e2824ab.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\11_0cf5962ed6a54aa59a3389ee4e2824ab.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\1_090837f275b24fe1a912e0168227a79b.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\1_090837f275b24fe1a912e0168227a79b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\2_da756d7fd3134d509c007f53893086a1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\2_da756d7fd3134d509c007f53893086a1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\4_b71c89c5ffef47f594a65984c9e48c8c.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\4_b71c89c5ffef47f594a65984c9e48c8c.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\5_e4a10870b88443128882af9d0a3f6475.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\5_e4a10870b88443128882af9d0a3f6475.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\6_b09c64ed6404410fb9e84a24e7cc6a9a.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\6_b09c64ed6404410fb9e84a24e7cc6a9a.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\9_6c76529bfcf64ed7b03e37fffb4840aa.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\9_6c76529bfcf64ed7b03e37fffb4840aa.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-dynamicblack-95180877_f8952bc7410e424490f43b94d3983479.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-dynamicblack-95180877_f8952bc7410e424490f43b94d3983479.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-lperspectiveblack-95180892.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-lperspectiveblack-95180892.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_00.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_00.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro3.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro4.png",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-taycam_afdc84af2793407caac3e45588d2d7d2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\Sony\\PlayStation4\\ps4-taycam_afdc84af2793407caac3e45588d2d7d2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue1.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue2.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\acer.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\acer.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\demo-la-gi.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\demo-la-gi.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\requst-a-demo.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\requst-a-demo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\ultimate.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\ultimate.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\_thumbs\\Images\\virtual-banner-1024x300.jpg",
+      "PackagePath": "staticwebassets\\upload\\_thumbs\\Images\\virtual-banner-1024x300.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\1024x300-banner-purple-flower.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\1024x300-banner-purple-flower.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\1adminavatar23295223122018.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\1adminavatar23295223122018.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\1icons02270526122018.png",
+      "PackagePath": "staticwebassets\\upload\\images\\1icons02270526122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\1logoes02265726122018.png",
+      "PackagePath": "staticwebassets\\upload\\images\\1logoes02265726122018.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\20-sept-banner-1024x300.png",
+      "PackagePath": "staticwebassets\\upload\\images\\20-sept-banner-1024x300.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\48426160_369955007105044_8956461886950342656_n.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\48426160_369955007105044_8956461886950342656_n.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Banner\\Banner_001.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Banner\\Banner_001.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Banner\\Banner_002.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Banner\\Banner_002.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Banner\\Banner_003.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Banner\\Banner_003.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\1280px-Samsung_Logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\1280px-Samsung_Logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\28531d98145cc709431bdcf4103fb547.jpeg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\28531d98145cc709431bdcf4103fb547.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\31_wdlogo.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\31_wdlogo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\5901e28b93587572b4b21ce9.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\5901e28b93587572b4b21ce9.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\Microsoft-logo_rgb_wht.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\Microsoft-logo_rgb_wht.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\NZXT Logo-white bkg-d64e6c7ce69211ac7f591cde8bc6fb0ea16a37a01df357eb35e72c94a611afda.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\NZXT Logo-white bkg-d64e6c7ce69211ac7f591cde8bc6fb0ea16a37a01df357eb35e72c94a611afda.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\SONY-LOGO-1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\SONY-LOGO-1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\SennheiserLogo-e1495637258494.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\SennheiserLogo-e1495637258494.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\acer.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\acer.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\asus-logo-hd-photo-15.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\asus-logo-hd-photo-15.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\blog_Introducing-The-New-Sails-Logo-Content-1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\blog_Introducing-The-New-Sails-Logo-Content-1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\gigabyte-logo-805x352.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\gigabyte-logo-805x352.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\logo.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\logo.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\logodell.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\logodell.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\msi-logo.png",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\msi-logo.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\razer-logo.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\razer-logo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\thermaltake_logo_en.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\thermaltake_logo_en.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Brand-Logo\\xigmatek-logo.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Brand-Logo\\xigmatek-logo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\Customers\\1adminavatar23295223122018.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\Customers\\1adminavatar23295223122018.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\H2cb-84q_400x400.jpeg",
+      "PackagePath": "staticwebassets\\upload\\images\\H2cb-84q_400x400.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\11060881_888443704534720_2036613721015644854_n.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\11060881_888443704534720_2036613721015644854_n.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\1555233631-615-09_ho_ngoc_ha_3-1555233599-width613height912.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\1555233631-615-09_ho_ngoc_ha_3-1555233599-width613height912.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\1803_45719_11.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\1803_45719_11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\3010_45062831_2812350678835708_2901796745467920384_o.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\3010_45062831_2812350678835708_2901796745467920384_o.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\SKT.jpeg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\SKT.jpeg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh10.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh10.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh11.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh12.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh12.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh15(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh15(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh3(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh3(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh6.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh6.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh7.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh8.png",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh8.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\hinh9.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\hinh9.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\khuyenmai.png",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\khuyenmai.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\lapdell.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\lapdell.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\News\\macbook.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\News\\macbook.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\AMD\\1280px-AMD_Logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\AMD\\1280px-AMD_Logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA05.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA06.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA07.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA08.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\A715-72G-50NA\\A715-72G-50NA08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT05.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT06.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT07.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT08.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT_c.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-52-75FT\\AN515-52-75FT_c.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01(1).png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01(1).png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX05.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX06.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX06.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX07.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX07.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX08.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\Laptop\\AN515-54-59WX\\AN515-54-59WX08.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88501.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88501.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88502.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88502.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88503.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88503.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88504.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Acer\\XC-885\\XC-88504.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\D340MC-I38100002D\\D340MC-I38100002D04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\4-14-932x690.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\4-14-932x690.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua00-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua00-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua0005.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\90yh00z1-b2ua0005.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\gearvn_asus_rogdelta.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\gearvn_asus_rogdelta.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\vn_15ba30fc0b8aa08919cf2132t08df36b0.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogDelta\\vn_15ba30fc0b8aa08919cf2132t08df36b0.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1-3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Headphone\\RogStrix71\\gearvn-asus-rog-strix-7_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-05.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-07.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GL503GE-EN021T\\GL503GE-EN021T-07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-05.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-06.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-06.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-07.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-07.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-08.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GM-ES004T\\GX531GM-ES004T-08.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\Laptop\\GX531GW-ES006T\\GX531GW-ES006T04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0001_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0001_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0003_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0003_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0004_v1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\Vga Card ASUS TURBO RTX 2080TI - 11G\\43884_asusi_rtx_2080_ti_turbo_graphics_card_1000px_0004_v1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\VGA\\rtx2080Ti\\rog_strix_2080_ti_a11_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 05.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Asus\\mainboard\\ASUS Z390 ROG MAXIMUS XI HERO LGA1151v2\\ASUS Z390 ROG 05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X6.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\570X\\570X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X6.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Case\\680X7.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Case\\680X7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_6.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_7.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_8.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_8.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_9.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k63\\gearvn-corsair-k63_wireless_9.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_0.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_0.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_7.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_8.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_9.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k70\\gearvn_k70mk2se_9.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\1_de7f0e2e774148f2be8b629cc37bdd4b.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\1_de7f0e2e774148f2be8b629cc37bdd4b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\2_dffb3f45cd1f4b4db690a0e6a2f5ba10.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\2_dffb3f45cd1f4b4db690a0e6a2f5ba10.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\3_fde0665bec2d419daacb6826e10acedd.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\3_fde0665bec2d419daacb6826e10acedd.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\4_1bf9fe794c184f5a8384129dac0e8c8b.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\4_1bf9fe794c184f5a8384129dac0e8c8b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\5_243da30d1bb44a2d96bbc2fccdebbb05.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\5_243da30d1bb44a2d96bbc2fccdebbb05.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\gearvn_k95_gunmetal1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\Keyboard\\k95\\gearvn_k95_gunmetal1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X6.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X7.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\RM650X\\RM650X7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d6.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d6.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d7.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\PSU\\rm850x\\rm850x_3d7.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair16GbDDR43000\\ram_dominator_platinum_5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair8GbDDR42666\\ddr4_veng_lpx_blk_02_gearvn_1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Corsair\\RAM\\Corsair8GbDDR42666\\ddr4_veng_lpx_blk_02_gearvn_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\NRW_SKT\\NRW_SKT_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_1.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_1.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\DXRacer\\RZ74\\RZ74_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\3579_70165058\\3579 70165058_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\5481 70175946\\70170107_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\70170107\\70170107_04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A03.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A03.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A04.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A04.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\N5680A\\N5680A_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\T3630\\T36301.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\T3630\\T36301.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\T3630\\T36302.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\T3630\\T36302.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\T3630\\T36303.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\T3630\\T36303.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Dell\\T5820\\T5820.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Dell\\T5820\\T5820.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\34127_2018100409530133_big.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\34127_2018100409530133_big.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\B360M-AORUS-PRO_3_compressed.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\B360M-AORUS-PRO_3_compressed.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\b360m_aorus_pro_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\Mainboard\\B360M\\b360m_aorus_pro_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g2.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g2.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g5.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Gigabyte\\VGA\\rtx_2080_ti_windforce_oc_11g\\rtx_2080_ti_windforce_oc_11g5.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\1024px-Intel-logo_svg.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\1024px-Intel-logo_svg.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\CPU\\i5 8400\\untitled-1_6e92f263a5c1446f98f837bf820cdb12.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\CPU\\i5 8400\\untitled-1_6e92f263a5c1446f98f837bf820cdb12.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\CPU\\i7 8700\\intel_core_i7_8700.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\CPU\\i7 8700\\intel_core_i7_8700.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Intel\\SSD\\Optane32GB\\optan_gearvn3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn00.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn00.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\2080-Ti-LIGHTNING-Z\\rtx_2080ti_gamingz_gearvn04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi01.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi01.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi02.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi02.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi03.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi03.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi04.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi04.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi05.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\MSI\\SHIELD MOUSEPAD\\gearvn_mousepad_msi05.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn-xboxone-s-001.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn-xboxone-s-001.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_b.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_c.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_c.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_d.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_d.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_e.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Microsoft\\XboxOneS\\gearvn_xboxones_e.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\No1\\No11.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\No1\\No11.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\No1\\No12.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\No1\\No12.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\No1\\No13.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\No1\\No13.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\No1\\No14.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\No1\\No14.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\P12\\P121.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\P12\\P121.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\P12\\P122.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\P12\\P122.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\P12\\P123.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\P12\\P123.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\QTC\\P12\\P124.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\QTC\\P12\\P124.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_6.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_6.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_7.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_7.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_8.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_a.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\HyperFlux\\gearvn_hyperflux_a.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_0.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_0.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_3.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_3.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Leviathan\\razer_leviathan_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\a.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\a.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\b.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\b.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\c_3f3520cc5d8c45c48af3e482ed004499.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\c_3f3520cc5d8c45c48af3e482ed004499.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\d.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\d.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\e_ea09c5efde7646268121dfcec46ea851.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\DAElite\\e_ea09c5efde7646268121dfcec46ea851.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\5g_tournament_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\5g_tournament_01.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-02-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-02-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-08-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery-08-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery01-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery01-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery06-gaming-mouse.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\Mouse\\RazerMambaElite\\razer-mamba-elite-gallery06-gaming-mouse.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_5.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Razer\\loa_razer_nommo_chroma\\loa_razer_nommo_chroma_5.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\c27f391_gearvn_de39a9d92bb6489bbe666f693a04c00d.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\c27f391_gearvn_de39a9d92bb6489bbe666f693a04c00d.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_2_8f66da83a71b41b08eeb274efdca1f72.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_2_8f66da83a71b41b08eeb274efdca1f72.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_3_f984ac0b7453402cb00e4dedb5e21e4d.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_3_f984ac0b7453402cb00e4dedb5e21e4d.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_4_532516b69eab43d38dc421d4dcae8e83.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_4_532516b69eab43d38dc421d4dcae8e83.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_5_ba63c834bc15436cb01a9204cc3c54a8.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_5_ba63c834bc15436cb01a9204cc3c54a8.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_92975c45e8384c15b07b9e3a6650a313.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\C27F397FHE\\ezgif_com_webp_to_jpg_92975c45e8384c15b07b9e3a6650a313.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\11_0cf5962ed6a54aa59a3389ee4e2824ab.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\11_0cf5962ed6a54aa59a3389ee4e2824ab.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\1_090837f275b24fe1a912e0168227a79b.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\1_090837f275b24fe1a912e0168227a79b.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\2_da756d7fd3134d509c007f53893086a1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\2_da756d7fd3134d509c007f53893086a1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\4_b71c89c5ffef47f594a65984c9e48c8c.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\4_b71c89c5ffef47f594a65984c9e48c8c.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\5_e4a10870b88443128882af9d0a3f6475.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\5_e4a10870b88443128882af9d0a3f6475.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\6_b09c64ed6404410fb9e84a24e7cc6a9a.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\6_b09c64ed6404410fb9e84a24e7cc6a9a.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\9_6c76529bfcf64ed7b03e37fffb4840aa.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\9_6c76529bfcf64ed7b03e37fffb4840aa.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-dynamicblack-95180877_f8952bc7410e424490f43b94d3983479.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-dynamicblack-95180877_f8952bc7410e424490f43b94d3983479.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-lperspectiveblack-95180892.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\Monitor\\LC49J890\\vn-curved-gaming-c49j890dke-lc49j890dkexxv-lperspectiveblack-95180892.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_00.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_00.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\860Evo250g\\860-evo-250gb_gearvn_02.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Samsung\\SSD\\970evo250g\\970_evo_250gb_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_4.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1000\\GSX1000_4.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro3.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro3.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro4.png",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Senheiser\\Sound Card\\GSX1200Pro\\GSX1200Pro4.png"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50(1).jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50(1).jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-slim-gearvn_d87a3ded0eb24056bee1b92bf7771d50.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-taycam_afdc84af2793407caac3e45588d2d7d2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\Sony\\PlayStation4\\ps4-taycam_afdc84af2793407caac3e45588d2d7d2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\WD\\WD1TBBlack7200rpm\\WD1TB2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue1.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue1.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue2.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ProductImages\\WD\\WD1TBBlue7200rpm\\WD1TBblue2.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\acer.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\acer.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\demo-la-gi.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\demo-la-gi.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\requst-a-demo.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\requst-a-demo.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\ultimate.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\ultimate.jpg"
+    },
+    {
+      "Id": "E:\\WebThuVienAPI\\WebThuVienApp\\wwwroot\\upload\\images\\virtual-banner-1024x300.jpg",
+      "PackagePath": "staticwebassets\\upload\\images\\virtual-banner-1024x300.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebThuVienApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebThuVienApp.props",
+      "PackagePath": "build\\WebThuVienApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebThuVienApp.props",
+      "PackagePath": "buildMultiTargeting\\WebThuVienApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebThuVienApp.props",
+      "PackagePath": "buildTransitive\\WebThuVienApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

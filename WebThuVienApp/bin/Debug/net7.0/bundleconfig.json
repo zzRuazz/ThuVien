@@ -1,0 +1,49 @@
+[
+  {
+    "outputFileName": "wwwroot/bundles/providers.min.js",
+    "inputFiles": [
+      "wwwroot/plugins/providers/*.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/bundles/asset.min.js",
+    "inputFiles": [
+      "wwwroot/assets/js/jquery.min.js",
+      "wwwroot/assets/js/jquery.zoom.min.js",
+      "wwwroot/assets/js/jquery.flexisel.js",
+      "wwwroot/assets/js/bootstrap.min.js",
+      "wwwroot/assets/js/lory.min.js",
+      "wwwroot/assets/js/modernizr.custom.46884.js",
+      "wwwroot/assets/js/nouislider.min.js",
+      "wwwroot/assets/js/responsiveslides.min.js",
+      "wwwroot/assets/js/slick.min.js",
+      "wwwroot/assets/js/main.js",
+      "wwwroot/plugins/datatables/datatables.min.js",
+      "wwwroot/plugins/toastr/toastr.min.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": true
+  },
+  {
+    "outputFileName": "wwwroot/bundles/theme.min.css",
+    "inputFiles": [
+      "wwwroot/assets/css/*.css",
+      "wwwroot/plugins/datatables/datatables.min.css",
+      "wwwroot/plugins/sweetalert2/sweetalert2.css",
+      "wwwroot/plugins/toastr/toastr.css"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": true
+  }
+]

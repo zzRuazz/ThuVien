@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/themes/assets/images/favicon.png">
+    <title>@ViewData["Title"] | SALVATION SYSTEM</title>
+    <link href="~/bundles/theme.min.css" rel="stylesheet" />
+    <link href="~/themes/css/style.css" rel="stylesheet">
+    <link href="~/themes/css/colors/blue-dark.css" id="theme" rel="stylesheet">
+</head>
+
+<body>
+    <div class="preloader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+        </svg>
+    </div>
+
+    <section id="wrapper">
+        <div class="login-register" style="background-image:url(/themes/assets/images/background/login-register.jpg);">
+            @RenderBody()
+        </div>
+    </section>
+
+    <script src="~/bundles/asset.min.js"></script>
+    <script src="~/bundles/providers.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

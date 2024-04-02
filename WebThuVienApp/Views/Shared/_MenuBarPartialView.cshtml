@@ -1,0 +1,41 @@
+﻿@using Models.ViewModels;
+@{
+    Layout = null;
+    var categories = (List<CategoryViewModel>)Model;
+}
+
+<span class="category-header">Danh mục <i class="fa fa-list"></i></span>
+<ul class="category-list">
+    @if (categories != null && categories.Any())
+    {
+        foreach (var category in categories)
+        {
+            if (!string.IsNullOrEmpty(category.ParentId) && category.Children != null && category.Children.Any())
+            {
+                <li class="dropdown side-dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">@category.Name<i class="fa fa-angle-right"></i></a>
+                    <div class="custom-menu">
+                        <div class="row">
+                            @foreach (var child in category.Children)
+                            {
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="/san-pham/chi-tiet/danh-muc/@child.Slug">@child.Name</a></h3>
+                                        </li>
+                                    </ul>
+                                    <hr />
+                                    <hr class="hidden-md hidden-lg" />
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </li>
+            }
+            else
+            {
+                <li><a href='/san-pham/chi-tiet/danh-muc/@category.Slug'>@category.Name</a></li>
+            }
+        }
+    }
+</ul>

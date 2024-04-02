@@ -1,0 +1,294 @@
+﻿@using Models.Entities;
+@using Models.ViewModels;
+@{
+    ViewData["Title"] = "Category";
+    var categories = new List<Category>();
+    var activedCategories = new List<CategoryViewModel>();
+    var perpageShow = new List<int>()
+    {
+        10, 20, 30, 50, 100, 200
+    };
+    long total = 0;
+    long totalPage = 1;
+    var currentPage = 1;
+    var limit = 1;
+
+    if (ViewBag.Categories != null)
+    {
+        categories = ViewBag.Categories;
+    }
+
+    if (ViewBag.TotalRecord != null)
+    {
+        total = ViewBag.TotalRecord;
+    }
+
+    if (ViewBag.TotalPage != null)
+    {
+        totalPage = ViewBag.TotalPage;
+    }
+
+    if (ViewBag.CurrentPage != null)
+    {
+        currentPage = ViewBag.CurrentPage;
+    }
+
+    if (ViewBag.Limit != null)
+    {
+        limit = ViewBag.Limit;
+    }
+
+    if (ViewBag.ActivedCategories != null)
+    {
+        activedCategories = ViewBag.ActivedCategories;
+    }
+}
+
+@section Styles{
+    <style>
+        .page-link:hover {
+            cursor: pointer;
+        }
+    </style>
+}
+
+<div class="row page-titles">
+    <div class="col-md-5 align-self-center">
+        <h3 class="text-themecolor">Dashboard</h3>
+    </div>
+    <div class="col-md-7 align-self-center">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="javascript:void(0)">Home</a>
+            </li>
+            <li class="breadcrumb-item active">Dashboard</li>
+        </ol>
+    </div>
+    <div>
+        <button class="right-side-toggle waves-effect waves-light btn-inverse btn btn-circle btn-sm pull-right m-l-10">
+            <i class="ti-settings text-white"></i>
+        </button>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-12">
+                        <button onclick="ClearModal()" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#informationModal">
+                            Create
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-group">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-6" style="display: flex;">
+                                <span>Hiển thị </span>
+                                <select id="perpage" name="perpage" style="margin: 0 10px; height: 38px;" title="per-page">
+                                    @if (perpageShow != null && perpageShow.Any())
+                                    {
+                                        foreach (var item in perpageShow)
+                                        {
+                                            if (item == limit)
+                                            {
+                                                <option value="@item" selected>@item</option>
+                                            }
+                                            else
+                                            {
+                                                <option value="@item">@item</option>
+                                            }
+                                        }
+                                    }
+                                </select>
+                                <span> / @total</span>
+                            </div>
+                            <div class="col-6">
+                                <nav aria-label="Page navigation example" class="pull-right">
+                                    <ul class="pagination">
+                                        @if (currentPage == 1)
+                                        {
+                                            <li class="page-item disabled">
+                                                <a class="page-link" aria-disabled="true">
+                                                    <span aria-hidden="true">&laquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="page-item">
+                                                <a class="page-link" data-page="@(currentPage - 1)" aria-label="Previous">
+                                                    <span aria-hidden="true">&laquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        @for (int i = 0; i < totalPage; i++)
+                                        {
+                                            if (i + 1 == currentPage)
+                                            {
+                                                <li class="page-item active" aria-current="page"><a class="page-link">@(i + 1)</a></li>
+                                            }
+                                            else
+                                            {
+                                                <li class="page-item"><a class="page-link" data-page="@(i + 1)">@(i + 1)</a></li>
+                                            }
+                                        }
+                                        @if (currentPage == totalPage)
+                                        {
+                                            <li class="page-item disabled">
+                                                <a class="page-link" aria-disabled="true">
+                                                    <span aria-hidden="true">&raquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="page-item">
+                                                <a class="page-link" data-page="@(currentPage + 1)" aria-label="Next">
+                                                    <span aria-hidden="true">&raquo;</span>
+                                                </a>
+                                            </li>
+                                        }
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="clearfix"><br /></div>
+                    </div>
+                    <div class="col-12">
+                        <table class="table table-bordered table-condensed table-striped" id="category-table" style="width: 100% !important; font-size: 12px">
+                            <thead>
+                                <tr>
+                                    <td>Name</td>
+                                    <td>Slug</td>
+                                    <td>Image</td>
+                                    <td>Status</td>
+                                    <td>Is Deleted</td>
+                                    <td>Action</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (categories != null && categories.Any())
+                                {
+                                    foreach (var category in categories)
+                                    {
+                                        <tr>
+                                            <td>@category.Name</td>
+                                            <td>@category.Slug</td>
+                                            <td>
+                                                <img class="img-fluid" style="width: 200px;" src="@category.Image" alt="@category.Name" />
+                                            </td>
+                                            <td>
+                                                @if (category.IsActived)
+                                                {
+                                                    <span class="badge badge-primary">Actived</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge badge-danger">In Actived</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (category.IsDeleted)
+                                                {
+                                                    <span class="badge badge-danger">Disabled</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge badge-primary">Enabled</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                <button type="button" onclick="Edit('@category.Id')" class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#informationModal">
+                                                    Edit
+                                                </button>
+                                                @if (category.IsActived)
+                                                {
+                                                    <button class="btn btn-sm btn-danger" onclick="Active('@category.Id', false)">Disable</button>
+                                                }
+                                                else
+                                                {
+                                                    <button class="btn btn-sm btn-info" onclick="Active('@category.Id', true)">Enable</button>
+                                                }
+                                                <button class="btn btn-sm btn-danger" onclick="Delete('@category.Id')">Delete</button>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="informationModal" tabindex="-1" aria-labelledby="informationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="informationModalLabel">Select image</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form role="form" action="">
+                    <div class="form-group">
+                        <label for="Name">Category Name</label>
+                        <input class="form-control" type="text" id="Name" name="Name" onkeyup="GenerateSlug()" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Slug">Category Slug</label>
+                        <input class="form-control" readonly type="text" id="Slug" name="Slug" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Image">Category Image</label>
+                        <input class="form-control" type="text" id="Image" name="Image" onkeyup="ShowImage()" />
+                        <img class="img-fluid" id="ImageShow" style="width: 200px;" src="" alt="" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="name">Parent Id</label>
+                        <select class="form-control" id="ParentId" name="ParentId">
+                            <option value=""></option>
+                            @if (activedCategories != null && activedCategories.Any())
+                            {
+                                foreach (var cat in activedCategories)
+                                {
+                                    <option value="@cat.Id">@cat.Name</option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="IsActived">Is Actived</label>
+                        <select class="form-control" id="IsActived" name="IsActived">
+                            <option value="true">Enable</option>
+                            <option value="false">Disable</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" onclick="CreateOrUpdate()" class="btn btn-success">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/pages/category/category.js"></script>
+}

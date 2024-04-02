@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "FEEDBACK";
+}
+
+<div id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="/">Trang chủ</a></li>
+            <li class="active">Phản hồi</li>
+        </ul>
+    </div>
+</div>
+
+<section class="section" style="min-height: calc(100vh - 231px - 367px)">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2 class="title">Phản hồi cho chúng tôi</h2>
+                    <div class="pull-right">
+                        <div class="product-slick-dots-1 custom-dots"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <form method="POST" action="/Home/DoFeedback">
+            <input name="__RequestVerificationToken" type="hidden" value="xWbVTYbstxIyfU4v-ZfUdJmtddAlHd2u4DnaG3OJIOJX9PCpAQR0bcf87auoTax1es_xnXfdrsVphr67c4a8UhGvfWZCK-8Gu7rnzHUHRXc1" />
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="FeedbackCatalogId">Bạn muốn phản hồi về vấn đề gì?</label>
+                        <select name="FeedbackCatalogId" id="FeedbackCatalogId" class="form-control" required="required">
+                            <option value="">Chọn danh mục phản hồi</option>
+                            <option value="1">Chăm s&#243;c kh&#225;ch h&#224;ng</option>
+                            <option value="2">Vận chuyển</option>
+                            <option value="3">Đơn h&#224;ng</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="FeedbackFullname">Họ tên:</label>
+                        <input type="text" class="form-control" id="FeedbackFullname" name="FeedbackFullname" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label for="FeedbackEmail">Email:</label>
+                        <input type="email" class="form-control" id="FeedbackEmail" name="FeedbackEmail" required="required">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="FeedbackPhone">Điện thoại:</label>
+                        <input type="text" class="form-control" id="FeedbackPhone" name="FeedbackPhone" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label for="FeedbackAddress">Địa chỉ:</label>
+                        <input type="text" class="form-control" id="FeedbackAddress" name="FeedbackAddress" required="required">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="FeedbackContent">Nội dung:</label>
+                        <textarea name="FeedbackContent" id="FeedbackContent" class="form-control" rows="8" required="required"></textarea>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="primary-btn">Gửi đi</button>
+            <button type="reset" class="second-btn">Làm lại</button>
+        </form>
+    </div>
+</section>

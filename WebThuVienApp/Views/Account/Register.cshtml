@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "REGISTER";
+}
+
+<section id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="/">Trang chủ</a></li>
+            <li class="active">Đăng ký</li>
+        </ul>
+    </div>
+</section>
+
+<section class="section" style="min-height: calc(100vh - 231px - 367px)">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2 class="title">Đăng ký tài khoản</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <form action="/Account/DoRegister" method="POST" role="form">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountFullname">Họ và tên:</label>
+                                <input type="text" class="input" id="AccountFullname" name="AccountFullname" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountBirthday">Ngày sinh:</label>
+                                <input type="date" class="input" id="AccountBirthday" name="AccountBirthday" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountPassword">Mật khẩu:</label>
+                                <input type="password" class="input" id="AccountPassword" name="AccountPassword" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="ReAccountPassword">Nhập lại mật khẩu:</label>
+                                <input type="password" class="input" id="ReAccountPassword" name="ReAccountPassword" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountGender">Giới tính:</label>
+                                <select name="AccountGender" id="AccountGender" class="input" required="required">
+                                    <option value="">Vui lòng chọn</option>
+                                    <option value="1">Nam</option>
+                                    <option value="0">Nữ</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountEmail">Email:</label>
+                                <input type="email" class="input" id="AccountEmail" name="AccountEmail" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountPhone">Điện thoại:</label>
+                                <input type="text" class="input" id="AccountPhone" name="AccountPhone" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="AccountAddress">Địa chỉ:</label>
+                                <input type="text" class="input" id="AccountAddress" name="AccountAddress" />
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="primary-btn">Đăng ký</button>
+                    <button type="reset" class="primary-btn">Làm lại</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

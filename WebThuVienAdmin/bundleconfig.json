@@ -1,0 +1,65 @@
+[
+  {
+    "outputFileName": "wwwroot/bundles/providers.min.js",
+    "inputFiles": [
+      "wwwroot/js/providers/*.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/bundles/asset.min.js",
+    "inputFiles": [
+      "wwwroot/themes/assets/plugins/jquery/jquery.min.js",
+      "wwwroot/themes/assets/plugins/bootstrap/js/popper.min.js",
+      "wwwroot/themes/assets/plugins/bootstrap/js/bootstrap.min.js",
+      "wwwroot/themes/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js",
+      "wwwroot/themes/assets/plugins/sparkline/jquery.sparkline.min.js",
+      "wwwroot/themes/assets/plugins/raphael/raphael-min.js",
+      "wwwroot/themes/assets/plugins/morrisjs/morris.min.js",
+      //"wwwroot/themes/assets/plugins/moment/moment.js",
+      //"wwwroot/themes/assets/plugins/calendar/jquery-ui.min.js",
+      //"wwwroot/themes/assets/plugins/calendar/dist/fullcalendar.min.js",
+      //"wwwroot/themes/assets/plugins/calendar/dist/cal-init.js",
+      //"wwwroot/themes/assets/plugins/dropify/js/dropify.min.js",
+      //"wwwroot/themes/assets/plugins/toast-master/js/jquery.toast.js",
+      "wwwroot/themes/js/jquery.slimscroll.js",
+      "wwwroot/themes/js/waves.js",
+      "wwwroot/themes/js/sidebarmenu.js",
+      "wwwroot/themes/js/custom.min.js",
+      "wwwroot/themes/js/jquery.validate.min.js",
+      "wwwroot/themes/js/jquery.validate.unobtrusive.min.js",
+      "wwwroot/plugins/datatables/datatables.min.js",
+      //"wwwroot/plugins/toastr/toastr.min.js",
+      "wwwroot/plugins/sweetalert/dist/sweetalert2.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/bundles/theme.min.css",
+    "inputFiles": [
+      "wwwroot/themes/assets/plugins/bootstrap/css/bootstrap.min.css",
+      "wwwroot/themes/assets/plugins/morrisjs/morris.css",
+      //"wwwroot/themes/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.min.css",
+      //"wwwroot/themes/assets/plugins/timepicker/bootstrap-timepicker.min.css",
+      //"wwwroot/themes/assets/plugins/bootstrap-daterangepicker/daterangepicker.css",
+      //"wwwroot/themes/assets/plugins/dropify/css/dropify.min.css",
+      //"wwwroot/themes/assets/plugins/calendar/dist/fullcalendar.css",
+      //"wwwroot/themes/assets/plugins/toast-master/js/jquery.toast.css",
+      "wwwroot/plugins/datatables/datatables.min.css",
+      "wwwroot/plugins/sweetalert/dist/sweetalert2.css"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "ConnectionString": "Data Source=.;Initial Catalog=SalvationStore;Persist Security Info=True;User ID=sa;Password=123456a@A;Connect Timeout=200; Max Pool Size=1000;MultipleActiveResultSets=True;TrustServerCertificate=True"
+}
