@@ -1,4 +1,4 @@
-﻿namespace Salvation.Services.FileService.Models.Response;
+﻿namespace WebThuVien.Services.FileService.Models.Response;
 
 /// <summary>
 /// FileUploadResponse

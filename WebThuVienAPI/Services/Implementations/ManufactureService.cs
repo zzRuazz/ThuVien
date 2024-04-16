@@ -2,67 +2,66 @@
 using Models.Common;
 using Models.Entities;
 using Models.Filter;
-using WebThuVienAPI.Abstractions;
+using WebThuVienAPI.Services.Abstractions;
+using Models.ViewModels;
 
 namespace WebThuVienAPI.Services.Implementations;
 
 /// <inheritdoc/>
 internal class ManufactureService : IManufactureService
 {
-    /// <summary>
-    /// IUnitOfWork
-    /// </summary>
-    private readonly IUnitOfWork _unitOfWork;
+    private readonly IManufactureRepository _manufactureRepository;
 
-    /// <summary>
-    /// Constructor
-    /// </summary>
-    /// <param name="unitOfWork"></param>
-    /// <param name="hashProvider"></param>
-    /// <param name="jwtProvider"></param>
-    public ManufactureService(IUnitOfWork unitOfWork)
+    public ManufactureService(IManufactureRepository manufactureRepository)
     {
-        _unitOfWork = unitOfWork;
+        _manufactureRepository = manufactureRepository;
     }
 
     /// <inheritdoc/>
-    public async Task<int> CreateAsync(Manufacture entity)
+    public async Task<string> CreateAsync(Manufacture entity)
     {
-        var createResult = await _unitOfWork.Manufacture.CreateAsync(entity);
+        var createResult = await _manufactureRepository.CreateAsync(entity);
         return createResult;
     }
 
     /// <inheritdoc/>
     public async Task<bool> DeleteAsync(string id)
     {
-        var deleteResult = await _unitOfWork.Manufacture.DeleteAsync(id);
+        var deleteResult = await _manufactureRepository.DeleteAsync(id);
         return deleteResult;
     }
 
     /// <inheritdoc/>
     public async Task<IEnumerable<Manufacture>?> GetAllAsync()
     {
-        var getAllResult = await _unitOfWork.Manufacture.GetAllAsync();
+        var getAllResult = await _manufactureRepository.GetAllAsync();
         return getAllResult;
     }
 
     /// <inheritdoc/>
     public async Task<Manufacture?> GetAsync(string id)
     {
-        var getOneResult = await _unitOfWork.Manufacture.GetAsync(id);
+        var getOneResult = await _manufactureRepository.GetAsync(id);
         return getOneResult;
     }
 
     public async Task<DataPaging<Manufacture>?> FilterDataPaging(ManufactureFilter filter)
     {
-        var result = await _unitOfWork.Manufacture.FilterDataPaging(filter);
+        var result = await _manufactureRepository.FilterDataPaging(filter);
         return result;
     }
 
     /// <inheritdoc/>
     public async Task<bool> UpdateAsync(Manufacture entity)
     {
-        var updateResult = await _unitOfWork.Manufacture.UpdateAsync(entity);
+        var updateResult = await _manufactureRepository.UpdateAsync(entity);
         return updateResult;
+    }
+
+    /// <inheritdoc/>
+    public async Task<IEnumerable<Manufacture>?> GetActiveManufactures()
+    {
+        var result = await _manufactureRepository.GetActiveManufactures();
+        return result;
     }
 }

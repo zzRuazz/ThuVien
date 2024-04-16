@@ -1,6 +1,7 @@
 ﻿using Models.Common;
 using Models.Entities;
 using Models.Filter;
+using Models.ViewModels;
 
 namespace WebThuVienAPI.Infrastructure.Abstractions;
 
@@ -9,6 +10,12 @@ namespace WebThuVienAPI.Infrastructure.Abstractions;
 /// </summary>
 public interface IManufactureRepository : IGenericRepository<Manufacture>
 {
+    /// <summary>
+    /// GetActiveCategories
+    /// </summary>
+    /// <returns></returns>
+    Task<IEnumerable<Manufacture>?> GetActiveManufactures();
+
     /// <summary>
     /// FilterDataPaging
     /// </summary>

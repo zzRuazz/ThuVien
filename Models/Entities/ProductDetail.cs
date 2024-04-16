@@ -8,17 +8,17 @@ public class ProductDetail : BaseEntity
     /// <summary>
     /// Foreign key of Product
     /// </summary>
-    public long ProductId { get; set; }
+    public string ProductId { get; set; }
 
     /// <summary>
     /// Foreign key of category
     /// </summary>
-    public long CategoryId { get; set; }
+    public string CategoryId { get; set; }
 
     /// <summary>
     /// Foreign key of ProductProperty
     /// </summary>
-    public long ProductPropertyId { get; set; }
+    public string ProductPropertyId { get; set; } = null!;
 
     /// <summary>
     /// ProductProperty

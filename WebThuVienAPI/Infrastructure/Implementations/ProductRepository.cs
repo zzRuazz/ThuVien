@@ -1,56 +1,77 @@
 ﻿using Common.Abstractions;
-using WebThuVienAPI.Infrastructure.Abstractions;
 using Models.Entities;
-using System.Data;
 using Models.Common;
 using Models.Filter;
+using WebThuVienAPI.Infrastructure.Abstractions;
+using WebThuVienAPI.Models.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebThuVienAPI.Infrastructure.Implementations;
 
-internal class ProductRepository : GenericRepository, IProductRepository
+internal class ProductRepository : RepositoryBase<Product>, IProductRepository
 {
-    /// <summary>
-    /// Constructor
-    /// </summary>
-    /// <param name="transaction"></param>
-    /// <param name="connection"></param>
-    /// <param name="logProvider"></param>
-    public ProductRepository(IDbTransaction transaction, IDbConnection connection, ILogProvider logProvider) : base(transaction, connection, logProvider)
+    public ProductRepository(ApplicationDbContext context, ILogProvider logProvider, IConfiguration configuration) : base(context, logProvider, configuration)
     {
     }
 
-    /// <inheritdoc/>
-    public Task<int> CreateAsync(Product entity)
+    public async Task<DataPaging<Product>?> FilterDataPaging(ProductFilter filter)
     {
-        throw new NotImplementedException();
-    }
+        try
+        {
+            filter.Page ??= 0;
+            filter.Limit ??= 50;
+            int offset = filter.Page.Value * filter.Limit.Value;
+            var res = _context.Set<Product>().Where(x => !string.IsNullOrEmpty(x.Id));
 
-    /// <inheritdoc/>
-    public Task<bool> DeleteAsync(string id)
-    {
-        throw new NotImplementedException();
-    }
+            if (!string.IsNullOrEmpty(filter.Name))
+            {
+                res = res.Where(x => x.Name.Contains(filter.Name));
+            }
 
-    public Task<DataPaging<Product>?> FilterDataPaging(ProductFilter filter)
-    {
-        throw new NotImplementedException();
-    }
+            if (!string.IsNullOrEmpty(filter.CategoryId))
+            {
+                res = res.Where(x => x.CategoryId.Equals(filter.CategoryId));
+            }
 
-    /// <inheritdoc/>
-    public Task<IEnumerable<Product>?> GetAllAsync()
-    {
-        throw new NotImplementedException();
-    }
+            if (!string.IsNullOrEmpty(filter.CategoryName))
+            {
+                res = res.Where(x => x.CategoryName.Contains(filter.CategoryName));
+            }
 
-    /// <inheritdoc/>
-    public Task<Product?> GetAsync(string id)
-    {
-        throw new NotImplementedException();
-    }
+            if (!string.IsNullOrEmpty(filter.ManufactureId))
+            {
+                res = res.Where(x => x.ManufactureId.Equals(filter.ManufactureId));
+            }
 
-    /// <inheritdoc/>
-    public Task<bool> UpdateAsync(Product entity)
-    {
-        throw new NotImplementedException();
+            if (!string.IsNullOrEmpty(filter.ManufactureName))
+            {
+                res = res.Where(x => x.ManufactureName.Contains(filter.ManufactureName));
+            }
+
+            if (filter.UpPrice != null)
+            {
+                res = res.Where(x => x.Price <= filter.UpPrice);
+            }
+
+            if (filter.DownPrice != null)
+            {
+                res = res.Where(x => x.Price >= filter.DownPrice);
+            }
+
+            if (filter.IsActived != null)
+            {
+                res = res.Where((x) => x.IsActived);
+            }
+
+            var count = await res.CountAsync();
+            var result = await res.Skip(offset).Take(filter.Limit.Value).ToListAsync();
+            return new DataPaging<Product> { Data = result, PaginationCount = count };
+        }
+        catch (Exception ex)
+        {
+            _logProvider.Error(ex);
+        }
+
+        return null;
     }
 }

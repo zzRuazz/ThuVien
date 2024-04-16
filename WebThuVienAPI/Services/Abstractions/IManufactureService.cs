@@ -1,34 +1,16 @@
 ﻿using Models.Common;
 using Models.Entities;
 using Models.Filter;
+using Models.ViewModels;
+using WebThuVienAPI.Services.Abstractions;
 
-namespace WebThuVienAPI.Abstractions
+namespace WebThuVienAPI.Services.Abstractions
 {
     /// <summary>
     /// IManufactureService
     /// </summary>
-    public interface IManufactureService
+    public interface IManufactureService : IBaseService<Manufacture>
     {
-        /// <summary>
-        /// CreateAsync
-        /// </summary>
-        /// <param name="entity"></param>
-        /// <returns></returns>
-        Task<int> CreateAsync(Manufacture entity);
-
-        /// <summary>
-        /// GetAsync
-        /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-        Task<Manufacture?> GetAsync(string id);
-
-        /// <summary>
-        /// GetAllAsync
-        /// </summary>
-        /// <returns></returns>
-        Task<IEnumerable<Manufacture>?> GetAllAsync();
-
         /// <summary>
         /// FilterDataPaging
         /// </summary>
@@ -37,17 +19,9 @@ namespace WebThuVienAPI.Abstractions
         Task<DataPaging<Manufacture>?> FilterDataPaging(ManufactureFilter filter);
 
         /// <summary>
-        /// UpdateAsync
+        /// GetActiveManufactures
         /// </summary>
-        /// <param name="entity"></param>
         /// <returns></returns>
-        Task<bool> UpdateAsync(Manufacture entity);
-
-        /// <summary>
-        /// DeleteAsync
-        /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-        Task<bool> DeleteAsync(string id);
+        Task<IEnumerable<Manufacture>?> GetActiveManufactures();
     }
 }

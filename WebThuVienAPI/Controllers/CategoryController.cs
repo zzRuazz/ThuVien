@@ -3,10 +3,10 @@ using Common.Abstractions;
 using Models.Entities;
 using Models.Filter;
 using Models.Request;
-using WebThuVIenAPI.Controllers.Base;
-using WebThuVienAPI.Abstractions;
+using WebThuVienAPI.Services.Abstractions;
+using WebThuVienAPI.Controllers.Base;
 
-namespace Salvation.Services.ProductApi.Controllers;
+namespace WebThuVien.Controllers;
 
 /// <summary>
 /// CategoryController

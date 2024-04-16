@@ -9,16 +9,16 @@ namespace WebThuVienAPI.Services.Implementations;
 
 public class ProductPropertyService : IProductPropertyService
 {
-    /// <summary>
-    /// IUnitOfWork
-    /// </summary>
-    private readonly IUnitOfWork _unitOfWork;
+    private readonly IProductPropertyRepository _productPropertyRepository;
+
+    private readonly ICategoryRepository _categoryRepository;
 
     private readonly ILogProvider _logProvider;
 
-    public ProductPropertyService(IUnitOfWork unitOfWork, ILogProvider logProvider)
+    public ProductPropertyService(IProductPropertyRepository productPropertyRepository, ICategoryRepository categoryRepository, ILogProvider logProvider)
     {
-        _unitOfWork = unitOfWork;
+        _productPropertyRepository = productPropertyRepository;
+        _categoryRepository = categoryRepository;
         _logProvider = logProvider;
     }
 
@@ -27,17 +27,13 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var categoryFind = await _unitOfWork.Category.GetAsync(entity.CategoryId);
+            var categoryFind = await _categoryRepository.GetAsync(entity.CategoryId);
 
             if (categoryFind != null)
             {
                 entity.CategoryName = categoryFind.Name;
-                var result = await _unitOfWork.ProductProperty.CreateAsync(entity);
-
-                if (result > 0)
-                {
-                    return entity.Id;
-                }
+                var result = await _productPropertyRepository.CreateAsync(entity);
+                return result;
             }
         }
         catch (Exception ex)
@@ -53,7 +49,7 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var res = await _unitOfWork.ProductProperty.GetAsync(id);
+            var res = await _productPropertyRepository.GetAsync(id);
             return res;
         }
         catch (Exception ex)
@@ -69,7 +65,7 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var res = await _unitOfWork.ProductProperty.GetAllAsync();
+            var res = await _productPropertyRepository.GetAllAsync();
             return res;
         }
         catch (Exception ex)
@@ -85,12 +81,12 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var categoryFind = await _unitOfWork.Category.GetAsync(entity.CategoryId);
+            var categoryFind = await _categoryRepository.GetAsync(entity.CategoryId);
 
             if (categoryFind != null)
             {
                 entity.CategoryName = categoryFind.Name;
-                var res = await _unitOfWork.ProductProperty.UpdateAsync(entity);
+                var res = await _productPropertyRepository.UpdateAsync(entity);
                 return res;
             }
         }
@@ -107,7 +103,7 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var res = await _unitOfWork.ProductProperty.DeleteAsync(id);
+            var res = await _productPropertyRepository.DeleteAsync(id);
             return res;
         }
         catch (Exception ex)
@@ -123,7 +119,7 @@ public class ProductPropertyService : IProductPropertyService
     {
         try
         {
-            var res = await _unitOfWork.ProductProperty.FilterDataPaging(filter);
+            var res = await _productPropertyRepository.FilterDataPaging(filter);
             return res;
         }
         catch (Exception ex)

@@ -7,264 +7,176 @@
     }
 }
 
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<html>
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>@ViewData["Title"] | QDStore</title>
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700&amp;subset=vietnamese" rel="stylesheet" />
-    <link href="~/bundles/theme.min.css" rel="stylesheet" />
-    <link rel="icon" type="image/x-icon" href="~/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>@ViewData["Title"] | Thư viện ABC</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/form.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/megamenu.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/fwslider.css" rel="stylesheet" media="all" />
+    <link href='http://fonts.googleapis.com/css?family=Exo+2' rel='stylesheet' type='text/css' />
 </head>
 <body>
-    <header>
-        <div id="top-header">
-            <div class="container">
-                <div class="pull-left">
-                    <span>Chào mừng đến với QTC Store</span>
+    <div class="header-top">
+        <div class="wrap">
+            <div class="header-top-left">
+                <div class="box">
+                    <select tabindex="4" class="dropdown">
+                        <option value="" class="label" value="">Ngôn ngữ :</option>
+                        <option value="1">Tiếng Việt</option>
+                        <option value="2">English</option>
+                    </select>
                 </div>
-                <div class="pull-right">
-                    <ul class="header-top-links">
-                        <li><a href="/san-pham/xay-dung-cau-hinh">Xây dựng cấu hình</a></li>
-                        <li><a href="/cau-hoi-thuong-gap">Câu hỏi thường gặp</a></li>
+                <div class="clear"></div>
+            </div>
+            <div class="cssmenu">
+                <ul>
+                    <li class="active"><a href="@Url.Action("Index","Account")">Tài khoản</a></li> |
+                    <li><a href="@Url.Action("Wishlist","Book")">Yêu thích</a></li> |
+                    <li><a href="@Url.Action("Checkout","Account")">Checkout</a></li> |
+                    <li><a href="@Url.Action("Login","Account")">Đăng nhập</a></li> |
+                    <li><a href="@Url.Action("Register","Account")">Đăng ký</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <div class="header-bottom">
+        <div class="wrap">
+            <div class="header-bottom-left">
+                <div class="logo">
+                    <a href="@Url.Action("Index","Home")"><img src="~/images/logo.png" alt="" /></a>
+                </div>
+                <div class="menu">
+                    <ul class="megamenu skyblue">
+                        <li class="active grid"><a href="@Url.Action("Index","Home")">Trang chủ</a></li>
+                        <li>
+                            <a class="color4" href="@Url.Action("Index1","Book")">Sách</a>
+                        </li>
+                        <li class="active"><a href="@Url.Action("About","Contact")">Giới thiệu</a></li>
+                        <li><a href="@Url.Action("Index","Contact")">Liên hệ</a></li>
+                        <li><a class="color7" href="@Url.Action("BorrowTicket","Account")">Phiếu mượn</a></li>
                     </ul>
                 </div>
             </div>
+            <div class="header-bottom-right">
+                <div class="search">
+                    <input type="text" name="s" class="textbox" value="Tìm kiếm" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Tìm kiếm';}">
+                    <input type="submit" value="Subscribe" id="submit" name="submit">
+                    <div id="response"> </div>
+                </div>
+            </div>
+            <div class="clear" style="height: 30px"></div>
         </div>
-        <div id="header">
-            <div class="container">
-                <div class="pull-left dp-flex">
-                    <div class="header-logo">
-                        <a class="logo" href="/">
-                            <img src="~/assets/img/logo.png" class="img-responsive" alt="">
-                        </a>
+    </div>
+
+    <div class="main">
+        @RenderBody()
+    </div>
+
+    <div class="footer">
+        <div class="footer-top">
+            <div class="wrap">
+                <div class="section group example">
+                    <div class="col_1_of_2 span_1_of_2">
+                        <ul class="f-list">
+                            <li><img src="~/images/2.png"><span class="f-text">Cung cấp dịch vụ giao sách tận nhà</span><div class="clear"></div></li>
+                        </ul>
                     </div>
-                    <div class="header-search">
-                        <form action="/Product/Search" method="post">
-                            <input class="input search-input" name="ProductName" type="text" placeholder="Nhập từ khoá cần tìm...">
-                            <button class="search-btn"><i class="fa fa-search"></i></button>
-                        </form>
+                    <div class="col_1_of_2 span_1_of_2">
+                        <ul class="f-list">
+                            <li><img src="~/images/3.png"><span class="f-text">Hotline! Miễn phí: 1900100có </span><div class="clear"></div></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-middle">
+            <div class="wrap">
+                <div class="section group example">
+                    <div class="col_1_of_f_1 span_1_of_f_1">
+                        <div class="section group example">
+                            <div class="col_1_of_f_2 span_1_of_f_2">
+                                <h3>Facebook</h3>
+                                <div class="like_box">
+                                    <div class="fb-like-box" data-href="http://www.facebook.com" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
                     </div>
                 </div>
-                <div class="pull-right">
-                    <ul class="header-btns">
-                        <li class="header-account dropdown default-dropdown">
-                            <div class="dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="true">
-                                <div class="header-btns-icon">
-                                    <i class="fa fa-user-o"></i>
-                                </div>
-                                <strong class="text-uppercase">Tài khoản <i class="fa fa-caret-down"></i></strong>
-                            </div>
-                            <a href="/tai-khoan/dang-nhap" class="text-uppercase small-font">Đăng nhập</a> / <a href="/tai-khoan/dang-ky" class="text-uppercase small-font">Đăng ký</a>
-                            <ul class="custom-menu">
-                                <li><a href="/tai-khoan/thong-tin-ca-nhan"><i class="fa fa-user-o"></i> Cá nhân</a></li>
-                                <li><a href="/tai-khoan/danh-sach-yeu-thich"><i class="fa fa-heart-o"></i> Yêu thích</a></li>
-                                <li><a href="/tai-khoan/don-hang"><i class="fa fa-gift"></i> Đơn hàng</a></li>
+                <div class="col_1_of_f_1 span_1_of_f_1">
+                    <div class="section group example">
+                        <div class="col_1_of_f_2 span_1_of_f_2">
+                            <h3>Thông tin</h3>
+                            <ul class="f-list1">
+                                <li><a href="@Url.Action("Detail","News")">Thư viện ABC nói không với sách lậu</a></li>
                             </ul>
-                        </li>
-                        <li class="header-cart dropdown default-dropdown" id="shopping-cart-ajax">
-                            <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
-                                <div class="header-btns-icon">
-                                    <i class="fa fa-shopping-cart"></i>
-                                    <span class="qty">0</span>
-                                </div>
-                                <strong class="text-uppercase">Giỏ hàng:</strong>
-                                <br>
-                                <span class="small-font">00</span>
-                            </a>
-                            <div class="custom-menu">
-                                <div id="shopping-cart">
-                                    <div class="shopping-cart-list">
-                                    </div>
-                                    <div class="shopping-cart-btns">
-                                        <button class="main-btn medium-font" id="show-cart">Xem giỏ hàng</button>
-                                        <button class="primary-btn medium-font" id="pay-cart">Thanh toán <i class="fa fa-arrow-circle-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="nav-toggle">
-                            <button class="nav-toggle-btn main-btn icon-btn"><i class="fa fa-bars"></i></button>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <section id="navigation">
-        <div class="container">
-            <div id="responsive-nav">
-                @if (showNavbar)
-                {
-                    <div class="category-nav">
-                        @await Component.InvokeAsync("CategoryComponent")
-                    </div>
-                }
-                else
-                {
-                    <div class="category-nav show-on-click">
-                        @await Component.InvokeAsync("CategoryComponent")
-                    </div>
-                }
-
-                <div class="menu-nav">
-                    <span class="menu-header">Menu <i class="fa fa-bars"></i></span>
-                    <ul class="menu-list">
-                        <li><a href="/">Trang chủ</a></li>
-                        <li class="dropdown mega-dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Tin tức <i class="fa fa-caret-down"></i></a>
-                            <div class="custom-menu">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <ul class="list-links">
-                                            <li>
-                                                <h3 class="list-links-title"><a href="/New/?CatalogId=1">Tin doanh nghiệp</a></h3>
-                                            </li>
-                                            <li><a href="/New/?CatalogId=4">Báo cáo doanh thu</a></li>
-                                            <li><a href="/New/?CatalogId=5">Tuyển dụng</a></li>
-                                            <li><a href="/New/?CatalogId=12">Thông tin cửa hàng</a></li>
-                                        </ul>
-                                        <hr class="hidden-md hidden-lg" />
-                                    </div>
-                                    <div class="col-md-4">
-                                        <ul class="list-links">
-                                            <li>
-                                                <h3 class="list-links-title"><a href="/New/?CatalogId=2">Tin công nghệ</a></h3>
-                                            </li>
-                                            <li><a href="/New/?CatalogId=6">Hướng dẫn</a></li>
-                                            <li><a href="/New/?CatalogId=7">Giải đáp</a></li>
-                                            <li><a href="/New/?CatalogId=8">Tin tức từ các hãng</a></li>
-                                        </ul>
-                                        <hr class="hidden-md hidden-lg" />
-                                    </div>
-                                    <div class="col-md-4">
-                                        <ul class="list-links">
-                                            <li>
-                                                <h3 class="list-links-title"><a href="/New/?CatalogId=3">Tin khuyến mãi</a></h3>
-                                            </li>
-                                            <li><a href="/New/?CatalogId=9">Khuyến mãi tháng</a></li>
-                                            <li><a href="/New/?CatalogId=10">Khuyến mãi đợt</a></li>
-                                            <li><a href="/New/?CatalogId=11">Các chương trình khuyến mãi</a></li>
-                                        </ul>
-                                        <hr class="hidden-md hidden-lg" />
-                                    </div>
-
-                                </div>
-                                <div class="row hidden-sm hidden-xs">
-                                    <div class="col-md-12">
-                                        <hr>
-                                        <a class="banner banner-1" href="#">
-                                            <img src="~/assets/img/banner05.jpg" alt="">
-                                            <div class="banner-caption text-center">
-                                                <h2 class="white-color">SẢN PHẨM MỚI</h2>
-                                                <h3 class="white-color font-weak">GIÁ HẤP DẪN</h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li><a href="/gioi-thieu">Giới thiệu</a></li>
-                        <li><a href="/phan-hoi">Liên hệ</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    @RenderBody()
-
-    <footer id="footer" class="section section-grey">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-6">
-                    <div class="footer">
-                        <div class="footer-logo">
-                            <a class="logo" href="/">
-                                <img src="~/upload/images/1logoes02265726122018.png" alt="">
-                            </a>
                         </div>
-
-                        <div class="address-info">
-                            <div class='display-flex'><div class='address-icon'><i class='fa fa-globe'></i></div><div><span class='address-title'>Địa chỉ:</span> Số 238 Hoàng Quốc Việt - Cầu Giấy - Hà Nội</div></div><div class='display-flex'><div class='address-icon'><i class='fa fa-phone'></i></div><div><span class='address-title'>Hotline:</span> <a href='tel:0849241190'>0849241190</a></div></div><div class='display-flex'><div class='address-icon'><i class='fa fa-envelope'></i></div><div><span class='address-title'>Email:</span> <a href='mailto:cskh@qtcstore.vn'>cskh@qtcstore.vn</a></div></div>
-                        </div>
-
-                        <div class="clearfix"><br></div>
-
-                        <ul class="footer-social">
-                            <li><a href='https://facebook.com' target='_blank'><i class='fa fa-facebook'></i></a></li>
-                            <li><a href='https://twitter.com' target='_blank'><i class='fa fa-twitter'></i></a></li>
-                            <li><a href='https://instagram.com' target='_blank'><i class='fa fa-instagram'></i></a></li>
-                            <li><a href='https://plus.google.com' target='_blank'><i class='fa fa-google'></i></a></li>
-                            <li><a href='https://pinterest.com' target='_blank'><i class='fa fa-pinterest'></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="clearfix visible-sm visible-xs"></div>
-
-                <div class="col-md-4 col-sm-6 col-xs-6">
-                    <div class="footer">
-                        <h3 class="footer-header">Dịch vụ khách hàng</h3>
-                        <ul class="list-links">
-                            <li><a href="/Home/About">Giới thiệu</a></li>
-                            <li><a href="/Home/Transport">Vận chuyển</a></li>
-                            <li><a href="/Home/Payment">Thanh toán</a></li>
-                            <li><a href="/Home/FAQ">Câu hỏi thường gặp</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 col-xs-6">
-                    <div class="footer">
-                        <h3 class="footer-header">Đăng ký nhận email mới</h3>
-                        <p>Để không bỏ lỡ bất kỳ sản phẩm hay chương trình khuyến mại mới nào từ chúng tôi!</p>
-                        <form method="POST" action="/Home/EmailRegisted">
-                            <input name="__RequestVerificationToken" type="hidden" value="dhTuRzhesMrKE6hgQrdMyP1CCcK3bzCYp2TU-BGeE4RAt1CRh0HiW324stXtIez5UF_agCiCWysQqyE29bSRrhKmMSe8Z9MqsXHUjnPk6Ew1" />
-                            <div class="form-group">
-                                <div class="row">
-                                    <div class="col-sm-8">
-                                        <input class="input input-email" name="EmailAddress" placeholder="Nhập email của bạn">
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <button class="primary-btn" type="submit">Đăng ký</button>
-                                    </div>
-                                </div>
+                        <div class="col_1_of_f_2 span_1_of_f_2">
+                            <h3>Liên lạc</h3>
+                            <div class="company_address">
+                                <p>Tầng 5, tòa nhà 6th Element</p>
+                                <p>khu đô thị Tây Hồ Tây, Hà Nội,</p>
+                                <p>Việt Nam</p>
+                                <p>Phone: 1900100có</p>
+                                <p>Fax: 1900100có</p>
+                                <p>Email: <span>thuvienabc.com</span></p>
                             </div>
-                        </form>
+                            <div class="social-media">
+                                <ul>
+                                    <li> <span class="simptip-position-bottom simptip-movable" data-tooltip="Google"><a href="https://www.google.com" target="_blank"> </a></span></li>
+                                    <li><span class="simptip-position-bottom simptip-movable" data-tooltip="Facebook"><a href="https://www.facebook.com" target="_blank"> </a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
                     </div>
                 </div>
-            </div>
-            <hr>
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center">
-                    <div class="footer-copyright">
-                        Copyright &copy;
-                        <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is customized <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://facebook.com/quancoina" target="_blank">QuanKoiNA</a>
-                    </div>
-                </div>
+                <div class="clear"></div>
             </div>
         </div>
-    </footer>
+    </div>
 
-    <script src="~/bundles/asset.min.js"></script>
-    <script src="~/bundles/providers.min.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <div class="footer-bottom">
+        <div class="wrap">
+            <div class="copy">
+                <p>© 2023 Powered by <a href="http://google.com" target="_blank">Bổ túc IT</a></p>
+            </div>
+            <div class="f-list2">
+                <ul>
+                    <li class="active"><a href="@Url.Action("About","Contact")">Giới thiệu</a></li> |
+                    <li><a href="@Url.Action("Delivery","Contact")">Mượn & Trả</a></li> |
+                    <li><a href="@Url.Action("Rule","Contact")">Chính sách & Điều kiện</a></li> |
+                    <li><a href="@Url.Action("Index","Contact")">Liên hệ</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <script src="~/js/jquery1.min.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/megamenu.js" type="text/javascript"></script>
+    <script src="~/js/jquery-ui.min.js"></script>
+    <script src="~/js/css3-mediaqueries.js"></script>
+    <script src="~/js/fwslider.js"></script>
+    <script src="~/js/jquery.easydropdown.js"></script>
     <script>
-        $(document).ready(function () {
-            $("#show-cart").click(function (event) {
-                event.preventDefault();
-                window.location.href = '/don-hang/chi-tiet/';
-            });
-
-            $("#pay-cart").click(function (event) {
-                event.preventDefault();
-                window.location.href = '/don-hang/thanh-toan/';
-            });
-        });
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
     </script>
 </body>
 </html>

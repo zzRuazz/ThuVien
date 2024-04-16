@@ -3,74 +3,59 @@ using Models.Common;
 using Models.Entities;
 using Models.Filter;
 using Models.ViewModels;
-using WebThuVienAPI.Abstractions;
+using WebThuVienAPI.Services.Abstractions;
 
 namespace WebThuVienAPI.Services.Implementations;
 
 /// <inheritdoc/>
 internal class CategoryService : ICategoryService
 {
-    /// <summary>
-    /// IUnitOfWork
-    /// </summary>
-    private readonly IUnitOfWork _unitOfWork;
+    private readonly ICategoryRepository _categoryRepository;
 
-    /// <summary>
-    /// Constructor
-    /// </summary>
-    /// <param name="unitOfWork"></param>
-    /// <param name="hashProvider"></param>
-    /// <param name="jwtProvider"></param>
-    public CategoryService(IUnitOfWork unitOfWork)
+    public CategoryService(ICategoryRepository categoryRepository)
     {
-        _unitOfWork = unitOfWork;
+        _categoryRepository = categoryRepository;
     }
 
     /// <inheritdoc/>
     public async Task<string> CreateAsync(Category entity)
     {
-        var createResult = await _unitOfWork.Category.CreateAsync(entity);
-
-        if (createResult > 0)
-        {
-            return entity.Id;
-        }
-
-        return "";
+        var createResult = await _categoryRepository.CreateAsync(entity);
+        return createResult;
     }
 
     /// <inheritdoc/>
     public async Task<bool> DeleteAsync(string id)
     {
-        var deleteResult = await _unitOfWork.Category.DeleteAsync(id);
+        var deleteResult = await _categoryRepository.DeleteAsync(id);
         return deleteResult;
     }
 
     /// <inheritdoc/>
     public async Task<IEnumerable<Category>?> GetAllAsync()
     {
-        var getAllResult = await _unitOfWork.Category.GetAllAsync();
+        var getAllResult = await _categoryRepository.GetAllAsync();
         return getAllResult;
     }
 
     /// <inheritdoc/>
     public async Task<Category?> GetAsync(string id)
     {
-        var getOneResult = await _unitOfWork.Category.GetAsync(id);
+        var getOneResult = await _categoryRepository.GetAsync(id);
         return getOneResult;
     }
 
     /// <inheritdoc/>
     public async Task<bool> UpdateAsync(Category entity)
     {
-        var updateResult = await _unitOfWork.Category.UpdateAsync(entity);
+        var updateResult = await _categoryRepository.UpdateAsync(entity);
         return updateResult;
     }
 
     public async Task<IEnumerable<CategoryViewModel>?> GetShowingCategories()
     {
         var result = new List<CategoryViewModel>();
-        var categories = await _unitOfWork.Category.GetActiveParentCategories();
+        var categories = await _categoryRepository.GetActiveParentCategories();
 
         if (categories != null && categories.Any())
         {
@@ -85,7 +70,7 @@ internal class CategoryService : ICategoryService
                     Slug = category.Slug
                 };
 
-                var children = await _unitOfWork.Category.GetActiveChildrenCategoriesByParentId(category.Id);
+                var children = await _categoryRepository.GetActiveChildrenCategoriesByParentId(category.Id);
 
                 if (children != null && children.Any())
                 {
@@ -115,7 +100,7 @@ internal class CategoryService : ICategoryService
     public async Task<IEnumerable<CategoryViewModel>?> GetActiveCategories()
     {
         var result = new List<CategoryViewModel>();
-        var categories = await _unitOfWork.Category.GetActiveParentCategories();
+        var categories = await _categoryRepository.GetActiveParentCategories();
 
         if (categories != null && categories.Any())
         {
@@ -130,7 +115,7 @@ internal class CategoryService : ICategoryService
                     Slug = category.Slug
                 };
 
-                var children = await _unitOfWork.Category.GetActiveChildrenCategoriesByParentId(category.Id);
+                var children = await _categoryRepository.GetActiveChildrenCategoriesByParentId(category.Id);
 
                 if (children != null && children.Any())
                 {
@@ -147,7 +132,7 @@ internal class CategoryService : ICategoryService
                             Slug = child.Slug
                         };
 
-                        var subChildren = await _unitOfWork.Category.GetActiveChildrenCategoriesByParentId(childViewModel.Id);
+                        var subChildren = await _categoryRepository.GetActiveChildrenCategoriesByParentId(childViewModel.Id);
 
                         if (subChildren != null && subChildren.Any())
                         {
@@ -186,7 +171,7 @@ internal class CategoryService : ICategoryService
     /// <inheritdoc/>
     public async Task<DataPaging<Category>?> FilterDataPaging(CategoryFilter filter)
     {
-        var result = await _unitOfWork.Category.FilterDataPaging(filter);
+        var result = await _categoryRepository.FilterDataPaging(filter);
         return result;
     }
 }

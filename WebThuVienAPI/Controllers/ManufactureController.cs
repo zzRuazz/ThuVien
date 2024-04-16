@@ -3,10 +3,10 @@ using Common.Abstractions;
 using Models.Entities;
 using Models.Filter;
 using Models.Request;
-using WebThuVienAPI.Abstractions;
-using WebThuVIenAPI.Controllers.Base;
+using WebThuVienAPI.Services.Abstractions;
+using WebThuVienAPI.Controllers.Base;
 
-namespace Salvation.Services.ProductApi.Controllers;
+namespace WebThuVien.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -31,6 +31,27 @@ public class ManufactureController : BaseController
     {
         _manufactureService = manufactureService;
         _logProvider = logProvider;
+    }
+
+    [HttpGet("get-active-manufactures")]
+    public async Task<IActionResult> GetActiveManufactures()
+    {
+        try
+        {
+            var manufactures = await _manufactureService.GetActiveManufactures();
+
+            if (manufactures != null)
+            {
+                return Ok(SuccessData(manufactures));
+            }
+
+            return Ok(SuccessData());
+        }
+        catch (Exception ex)
+        {
+            _logProvider.Error(ex);
+            return Ok(ErrorMessage(ex.Message));
+        }
     }
 
     [HttpPost("get-manufacture-paging")]

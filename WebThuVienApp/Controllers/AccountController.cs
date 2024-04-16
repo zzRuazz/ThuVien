@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Common.Abstractions;
-using Salvation.Services.Models.Request;
 
-namespace Salvation.Presentation.WebApp.Controllers
+namespace WebThuVien.Presentation.WebApp.Controllers
 {
     [Route("tai-khoan")]
     public class AccountController : Controller

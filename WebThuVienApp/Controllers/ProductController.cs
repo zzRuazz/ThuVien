@@ -2,7 +2,7 @@
 using Common.Abstractions;
 using Models.ViewModels;
 
-namespace Salvation.Presentation.WebApp.Controllers;
+namespace WebThuVien.Presentation.WebApp.Controllers;
 
 /// <summary>
 /// ProductController

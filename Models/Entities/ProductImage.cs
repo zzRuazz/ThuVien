@@ -8,7 +8,7 @@ public class ProductImage : BaseEntity
     /// <summary>
     /// Foreign key of Product
     /// </summary>
-    public long ProductId { get; set; }
+    public string ProductId { get; set; }
 
     /// <summary>
     /// Product Image

@@ -2,7 +2,7 @@
 using Common.Abstractions;
 using Models.ViewModels;
 
-namespace Salvation.Presentation.WebApp.Components;
+namespace WebThuVien.Presentation.WebApp.Components;
 
 /// <summary>
 /// CategoryComponent

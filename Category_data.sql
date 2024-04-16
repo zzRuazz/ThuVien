@@ -1,7 +1,7 @@
 ﻿USE [ThuVien]
 GO
 
-INSERT INTO [dbo].[Category]([Id], [Name], [Slug], [Image], [ParentId], [IsActived], [CreatedAt], [CreatedBy], [UpdatedAt], [UpdatedBy], [DeletedAt], [DeleedBy], [IsDeleted]) VALUES
+INSERT INTO [dbo].[Category]([Id], [Name], [Slug], [Image], [ParentId], [IsActived], [CreatedAt], [CreatedBy], [UpdatedAt], [UpdatedBy], [DeletedAt], [DeletedBy], [IsDeleted]) VALUES
 ('4c8aba93-53a5-4924-9f81-df9cdd9780bd', N'Sói già phố Wall', 'soi-gia-pho-wall', '1', NULL, 1, GETDATE(), NULL, NULL, NULL, NULL, NULL, 0),
 ('a5750039-7ad2-42e7-9d20-d9666baf455e', N'Homodeus', 'homodeus', '2', NULL, 1, GETDATE(), NULL, NULL, NULL, NULL, NULL, 0),
 ('fc76bd70-e229-4bfe-8d93-d619f4af7592', N'Vũ điệu của Thần Chết', 'vu-dieu-cua-than-chet', '3', NULL, 1, GETDATE(), NULL, NULL, NULL, NULL, NULL, 0),

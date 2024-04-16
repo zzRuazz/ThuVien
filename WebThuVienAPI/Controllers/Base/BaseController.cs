@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Models.Response;
 
-namespace WebThuVIenAPI.Controllers.Base;
+namespace WebThuVienAPI.Controllers.Base;
 
 /// <summary>
 /// BaseController

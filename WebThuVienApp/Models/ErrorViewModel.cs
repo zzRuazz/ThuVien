@@ -1,4 +1,4 @@
-namespace Salvation.Presentation.WebApp.Models
+namespace WebThuVien.Presentation.WebApp.Models
 {
     public class ErrorViewModel
     {

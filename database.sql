@@ -27,7 +27,7 @@ create table Account (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go
@@ -54,7 +54,7 @@ create table Category (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go
@@ -88,7 +88,7 @@ create table Author (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go
@@ -107,7 +107,7 @@ create table Books (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go
@@ -125,7 +125,7 @@ create table BookDetail (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go
@@ -140,7 +140,7 @@ create table BookImage (
 	UpdatedAt datetime,
 	UpdatedBy varchar(200),
 	DeletedAt datetime,
-	DeleedBy varchar(200),
+	DeletedBy varchar(200),
 	IsDeleted bit not null default 0
 )
 go

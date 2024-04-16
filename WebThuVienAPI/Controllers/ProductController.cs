@@ -3,9 +3,9 @@ using Common.Abstractions;
 using Models.Entities;
 using Models.Filter;
 using WebThuVienAPI.Services.Abstractions;
-using WebThuVIenAPI.Controllers.Base;
+using WebThuVienAPI.Controllers.Base;
 
-namespace Salvation.Services.ProductApi.Controllers;
+namespace WebThuVien.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]

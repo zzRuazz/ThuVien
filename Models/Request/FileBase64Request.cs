@@ -1,4 +1,4 @@
-﻿namespace Salvation.Services.Models.Request;
+﻿namespace WebThuVien.Services.Models.Request;
 
 /// <summary>
 /// FileBase64Request
